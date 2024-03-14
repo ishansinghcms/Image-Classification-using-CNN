@@ -23,4 +23,4 @@ The model is trained on the training dataset using the Adam optimizer and sparse
 
 ## Results
 
-The trained CNN model achieved an accuracy of approximately 69% on the test dataset. A detailed classification report is provided to evaluate precision, recall, and F1-score for each class and overall model performance.
+The trained CNN model achieved an accuracy of approximately 84% on the test dataset. A detailed classification report is provided to evaluate precision, recall, and F1-score for each class and overall model performance.
